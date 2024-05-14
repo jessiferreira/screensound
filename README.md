@@ -14,6 +14,7 @@
     <span style="display: block; margin-top: 10px;">Screen Sound</span>
 </h1>
 
+## 📖 Descrição
 Este repositório é dedicado ao projetinho __"Screen Sound"__, desenvolvido como parte de um desafio proposto pela parceria entre a Alura e a Oracle Next Education. O principal objetivo deste projeto é criar uma aplicação que consolide os conhecimentos adquiridos ao longo do curso, com foco especial na integração com banco de dados.
 
 ## 🔧 Funcionalidades
