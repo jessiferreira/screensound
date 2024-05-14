@@ -9,7 +9,7 @@
 [![Generic badge](https://img.shields.io/badge/Status-Concluído-C2078F.svg)](https://shields.io/)&nbsp;
 
 ## 📖 Descrição
-Este repositório é dedicado ao projetinho __"Screen Sound"__, desenvolvido como parte de um desafio proposto pela parceria entre a Alura e a Oracle Next Education. O principal objetivo deste projeto é criar uma aplicação que consolide os conhecimentos adquiridos ao longo do curso, com foco especial na integração com banco de dados.
+__Este repositório é dedicado ao projetinho __"Screen Sound"__, desenvolvido como parte de um desafio proposto pela parceria entre a Alura e a Oracle Next Education. O principal objetivo deste projeto é criar uma aplicação que consolide os conhecimentos adquiridos ao longo do curso, com foco especial na integração com banco de dados.__
 
 ## 🔧 Funcionalidades
 - __Cadastro de artistas:__ Cadastrar seus artistas musicais favoritos.
